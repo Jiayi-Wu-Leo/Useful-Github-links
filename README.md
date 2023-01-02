@@ -8,3 +8,7 @@ Useful Github links
 2. A base project for Medical Report Generation.
 
     https://github.com/wangleihitcs/MedicalReportGeneration
+
+3. Awesome Implicit Neural Representations
+    
+    https://github.com/vsitzmann/awesome-implicit-representations
